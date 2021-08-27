@@ -3,7 +3,7 @@ Change the background image of StudyPlace[![](https://github.com/SyTemossy/chang
 # Required
 - Tampermonkey (You can found it in your browser's Add-on store, work on the Chrome, Firefox, Edge, etc.)
  
- If you don't know how to install tampermonkey, just google it
+   If you don't know how to install tampermonkey, just google it
 - This Add-on
 
 # Installation
