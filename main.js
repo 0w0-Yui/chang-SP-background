@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 var displayname = true;
-var bg_url = "https://images2.alphacoders.com/724/724343.jpg"
+var bg_url = "replace me!"
 
 document.body.onload = function(){
   if (displayname)
