@@ -11,8 +11,10 @@ Please confirm you are installed Tampermonkey on this browser, then click the li
 # Customize
 - ###How to customize
 1. Go to tempermonkey Control Panel
+
 [![](https://github.com/SyTemossy/chang-SP-background/blob/main/ex2.png?raw=true)](https://github.com/SyTemossy/chang-SP-background/blob/main/ex2.png?raw=true)
 2. Find this script, and click the edit button
+
 [![](https://github.com/SyTemossy/chang-SP-background/blob/main/ex3.png?raw=true)](https://github.com/SyTemossy/chang-SP-background/blob/main/ex3.png?raw=true)
 3. Start customize!
 [![](https://github.com/SyTemossy/chang-SP-background/blob/main/ex4.png?raw=true)](https://github.com/SyTemossy/chang-SP-background/blob/main/ex4.png?raw=true)
