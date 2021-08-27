@@ -23,14 +23,14 @@ Please confirm you are installed Tampermonkey on this browser, then click the li
 [![](https://github.com/SyTemossy/chang-SP-background/blob/main/ex4.png?raw=true)](https://github.com/SyTemossy/chang-SP-background/blob/main/ex4.png?raw=true)
 
 ## Features
-- ###Custom image
+- ### Custom image
 Replace the "replace me!" with your url image, then install the script.
 #### WARNING!
 **Plz choose the image that's is your screen's resolution, or this script don't work well.Plz choose the image that's is your screen's resolution, or this script don't work well.**
 
 [![](https://github.com/SyTemossy/chang-SP-background/blob/main/ex5.png?raw=true)](https://github.com/SyTemossy/chang-SP-background/blob/main/ex5.png?raw=true)
 
-- ###Hide the name tag
+- ### Hide the name tag
 ##### Change the displayname true/false
 1. var displayname = true; 
 The name tag will be hide
