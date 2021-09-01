@@ -8,7 +8,7 @@ Change the background image of StudyPlace[![](https://github.com/SyTemossy/chang
 
 # Installation
 Please confirm you are installed Tampermonkey on this browser, then click the link below.
-### [INSTALL](https://greasyfork.org/scripts/431449-change-sp-background/code/change%20SP%20background.user.js)
+### [INSTALL](https://greasyfork.org/scripts/431750-change-studyplace-background/code/change%20StudyPlace%20background.user.js)
 
 # Customize
 - ###How to customize
