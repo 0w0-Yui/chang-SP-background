@@ -11,7 +11,7 @@ Please confirm you are installed Tampermonkey on this browser, then click the li
 ### [INSTALL](https://greasyfork.org/scripts/431750-change-studyplace-background/code/change%20StudyPlace%20background.user.js)
 
 # Customize
-- ###How to customize
+- ### How to customize
 1. Go to tempermonkey Control Panel
 
 [![](https://github.com/SyTemossy/chang-SP-background/blob/main/ex2.png?raw=true)](https://github.com/SyTemossy/chang-SP-background/blob/main/ex2.png?raw=true)
